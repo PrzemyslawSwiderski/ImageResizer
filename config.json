@@ -1,0 +1,12 @@
+{
+  "images_input_path": "./images_to_resize",
+  "images_output_path": "./output_images",
+  "scale": 0.9,
+  "quality": 50,
+  "extensions": [
+    "jpg",
+    "jpeg",
+    "png",
+    "gif"
+  ]
+}
