@@ -4,7 +4,7 @@ import os
 
 from PIL import Image
 
-from helpers import load_config, ensure_dir
+from src.helpers import load_config, ensure_dir
 
 
 class ImageResizer:

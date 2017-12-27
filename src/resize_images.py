@@ -1,4 +1,4 @@
-from image_resizer import ImageResizer
+from src.image_resizer import ImageResizer
 
 
 def main():

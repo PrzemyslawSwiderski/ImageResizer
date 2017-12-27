@@ -3,7 +3,7 @@ import os
 
 
 def load_config(obj):
-    with open('config.json') as json_data_file:
+    with open('config/config.json') as json_data_file:
         config = json.load(json_data_file)
         obj.images_input_path = config["images_input_path"]
         obj.images_output_path = config["images_output_path"]
