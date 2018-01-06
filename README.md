@@ -17,7 +17,7 @@ Can be find under this [link](https://drive.google.com/open?id=1R80VrerpGtim4U0b
 
 ## EXE file usage
 * Insert photos you want to have smaller size to images_to_resize folder. 
-* Change default config values if necessary.
+* Change default config values if necessary or pass them as arguments.
 * Run resize_images.exe
 * View output files in output_images folder
 
